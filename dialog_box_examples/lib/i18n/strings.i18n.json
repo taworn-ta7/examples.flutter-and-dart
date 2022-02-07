@@ -1,0 +1,30 @@
+{
+	"app": "Dialog Box Examples",
+	"switchLocale": {
+		"english": "English",
+		"thai": "ไทย"
+	},
+	"common": {
+		"close": "Close",
+		"ok": "OK",
+		"cancel": "Cancel",
+		"yes": "Yes",
+		"no": "No",
+		"retry": "Retry"
+	},
+	"messageBox": {
+		"info": "Information",
+		"warning": "Warning",
+		"error": "Error",
+		"question": "Question"
+	},
+	"waitBox": {
+		"message": "Please wait..."
+	},
+	"homePage": {
+		"title": "Home Page",
+		"messageBoxTest": "Test, testing, tested.",
+		"inputBoxTest": "Input Value",
+		"inputBoxHintTest": "Input anything to test"
+	}
+}

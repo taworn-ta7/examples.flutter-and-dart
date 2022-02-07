@@ -1,0 +1,30 @@
+{
+	"app": "ตัวอย่าง Dialog Box",
+	"switchLocale": {
+		"english": "English",
+		"thai": "ไทย"
+	},
+	"common": {
+		"close": "ปิด",
+		"ok": "ตกลง",
+		"cancel": "ยกเลิก",
+		"yes": "ใช่",
+		"no": "ไม่ใช่",
+		"retry": "ลองใหม่"
+	},
+	"messageBox": {
+		"info": "ข้อมูลข่าวสาร",
+		"warning": "แจ้งเตือน",
+		"error": "เกิดข้อผิดพลาด",
+		"question": "คำถาม"
+	},
+	"waitBox": {
+		"message": "โปรดรอสักครู่..."
+	},
+	"homePage": {
+		"title": "จุดเริ่มต้น",
+		"messageBoxTest": "ทดสอบ, กำลังทดสอบ, ทดสอบเสร็จแล้ว",
+		"inputBoxTest": "ใส่ค่า",
+		"inputBoxHintTest": "ใส่ค่าอะไรก็ได้เพื่อทดสอบ"
+	}
+}

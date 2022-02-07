@@ -1,0 +1,14 @@
+{
+	"app": "Search Bar",
+	"switchLocale": {
+		"english": "English",
+		"thai": "ไทย"
+	},
+	"searchBar": {
+		"open": "เปิดการค้นหา...",
+		"hint": "ค้นหา..."
+	},
+	"homePage": {
+		"title": "โฮมเพจ"
+	}
+}
