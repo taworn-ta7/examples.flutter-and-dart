@@ -1,0 +1,27 @@
+{
+	"app": "Password Input Examples",
+	"switchLocale": {
+		"english": "English",
+		"thai": "ไทย"
+	},
+	"common": {
+		"close": "Close",
+		"ok": "OK",
+		"cancel": "Cancel",
+		"yes": "Yes",
+		"no": "No",
+		"retry": "Retry"
+	},
+	"messageBox": {
+		"info": "Information",
+		"warning": "Warning",
+		"error": "Error",
+		"question": "Question"
+	},
+	"homePage": {
+		"title": "Home Page",
+		"username": "Username",
+		"password": "Password",
+		"ok": "Login"
+	}
+}
