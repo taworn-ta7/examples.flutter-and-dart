@@ -1,0 +1,10 @@
+{
+	"title": "Internationalization",
+	"switchLanguage_en": "Switch to English",
+	"switchLanguage_th": "Switch to ไทย",
+	"beginPage_title": "Begin Page",
+	"beginPage_next": "Next",
+	"nextPage_title": "Next Page",
+	"nextPage_show": "Show Calendar",
+	"nextPage_output": "date/time selected"
+}
